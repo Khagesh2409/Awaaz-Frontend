@@ -172,7 +172,7 @@ export default function Home() {
               <div className="lg:text-4xl md:text-3xl text-xl p-1 lg:p-0 md:p-0 lg:text-start md:text-start text-center font-spacegrotesksemibold">
                 Real-Time Speech Detection and Weekly Test Analysis
               </div>
-              <div className="font-spacegroteskregular lg:text-xl md:text-xl text-sm lg:text-start md:text-start text-center p-1 lg:p-0 md:p-0">
+              <div className="font-spacegroteskregular lg:text-xl md:text-xl text-sm lg:text-start md:text-start text-center p-4 lg:p-0 md:p-0">
                 Unlock the potential of your voice through cutting-edge
                 technology. Our platform not only hears your words but guides
                 you towards eloquence with precision.
@@ -195,7 +195,7 @@ export default function Home() {
               <div className="lg:text-4xl md:text-3xl text-xl p-1 lg:p-0 md:p-0 lg:text-start md:text-start text-center font-spacegrotesksemibold">
                 Real-Time Speech Detection and Weekly Test Analysis
               </div>
-              <div className="font-spacegroteskregular lg:text-xl md:text-xl text-sm lg:text-start md:text-start text-center p-1 lg:p-0 md:p-0">
+              <div className="font-spacegroteskregular lg:text-xl md:text-xl text-sm lg:text-start md:text-start text-center p-4 lg:p-0 md:p-0">
                 Unlock the potential of your voice through cutting-edge
                 technology. Our platform not only hears your words but guides
                 you towards eloquence with precision.
